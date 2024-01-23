@@ -5,9 +5,13 @@ A passionate and aspiring developer with expertise in Java, Python, Rust, and Ru
 - 🌱 I’m currently learning Java, Python, Rust and Ruby.
 
 What sets me apart ??
-1.Problem Solver 💡
-2.Continuous Learner 📚
-3.Team Player 🤝
+
+1.Problem Solver💡
+
+2.Continuous Learner📚
+
+3.Team Player🤝
+
 
 Happy Coding !!🚀
 
