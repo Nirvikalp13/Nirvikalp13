@@ -1,8 +1,7 @@
 
- 👋 Hi, I’m @Sarvatra
+ 👋 Hi, I’m Chinmayi Kodeppanavar
 - 
-A passionate and aspiring developer learning Java, Kotlin, Python. I thrive on turning innovative ideas into reality through the power of code. My journey in the realm of programming has equipped me with a diverse skill set and a penchant for problem-solving.
-- 🌱 I’m currently learning Java and kotlin.
+A passionate and aspiring developer learning Java, Python. Amateur in HTML, CSS, and Javascript. I thrive on turning innovative ideas into reality through the power of code.
 
 What sets me apart ??
 
