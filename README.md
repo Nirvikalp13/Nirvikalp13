@@ -1,17 +1,5 @@
+Hi, I’m Chinmayi Kodeppanavar
+A developer who loves to code, learn, and solve problems. I thrive on turning ideas into reality.
 
- 👋 Hi, I’m Chinmayi Kodeppanavar
-- 
-A passionate and aspiring developer learning Java, Python. Amateur in HTML, CSS, and Javascript. I thrive on turning innovative ideas into reality through the power of code.
+Let’s build something amazing together!
 
-What sets me apart ??
-
-1.Problem Solver💡
-
-2.Continuous Learner📚
-
-3.Team Player🤝
-
-
-Happy Coding !!🚀
-
-  
